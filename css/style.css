@@ -64,7 +64,7 @@ p {
 	color: #666666;
 	margin-bottom: 1rem;
 	font-size: 14px;
-	line-height: 26px;
+	line-height: normal;
 	font-weight: 300;
 	letter-spacing: 0.6px;
 }
