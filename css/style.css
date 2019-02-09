@@ -1,7 +1,7 @@
 /*
 Domain: https://www.viktorgordienko.com/
 Author: Viktor Gordienko
-Description: Название ещё не придумал
+Description: Simple and minimalistic theme
 Version: 1.0
 /* --------------------------------------------------------------
 /* Basis
@@ -64,7 +64,7 @@ p {
 	color: #666666;
 	margin-bottom: 1rem;
 	font-size: 14px;
-	line-height: normal;
+	line-height: 26px;
 	font-weight: 300;
 	letter-spacing: 0.6px;
 }
