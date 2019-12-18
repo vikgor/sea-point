@@ -592,7 +592,7 @@ footer .copyright {
     body {
         background: #212529;
     }
-    a, p, h1, h2, h3, h4, h5, h6, ul, ol, li {
+    a, p, pre, h1, h2, h3, h4, h5, h6, ul, ol, li {
         color: #dee2e6;
     }
     
