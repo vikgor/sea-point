@@ -129,6 +129,12 @@ a:hover {
     text-decoration: none;
 }
 
+textarea {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+
 /* --------------------------------------------------------------
 /* Image shadows (uncomment this if you aren't going to have any transparent/light images)
 --------------------------------------------------------------
@@ -591,6 +597,11 @@ footer .copyright {
 @media (prefers-color-scheme: dark) {
     body {
         background: #212529;
+    }
+    textarea {
+        background-color: #343a40;
+        color: #999999;
+        border-color: #999999;
     }
     a, p, pre, h1, h2, h3, h4, h5, h6, ul, ol, li {
         color: #dee2e6;
