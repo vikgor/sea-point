@@ -603,7 +603,10 @@ footer .copyright {
         color: #999999;
         border-color: #999999;
     }
-    a, p, pre, h1, h2, h3, h4, h5, h6, ul, ol, li, .btn {
+    a {
+        color: #3282b8;
+    }
+    p, pre, h1, h2, h3, h4, h5, h6, ul, ol, li, .btn {
         color: #dee2e6;
     }
     .btn:hover {
